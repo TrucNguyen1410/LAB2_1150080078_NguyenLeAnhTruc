@@ -1,0 +1,10 @@
+# Maven build output
+target/
+# NetBeans private
+nbproject/private/
+# Python
+__pycache__/
+*.pyc
+# OS
+Thumbs.db
+.DS_Store
